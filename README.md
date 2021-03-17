@@ -18,9 +18,11 @@ resultant Image :
 
 1) Download the templates and static folder from the content folder and upload it to your google drive.
 2) Update the UPLOAD folder, template folder and static folder path in Flask or simply follow this folder structure in your drive:
- `template folder = drive/My Drive/NeuralArtTransfer/templates`
- `static_folder='drive/My Drive/NeuralArtTransfer/static'`
- `UPLOAD_FOLDER = 'static/uploads/'`
+ ```
+    template folder = drive/My Drive/NeuralArtTransfer/templates
+    static_folder='drive/My Drive/NeuralArtTransfer/static'
+    UPLOAD_FOLDER = 'static/uploads/'
+ ```
  
 # Requirements
 
